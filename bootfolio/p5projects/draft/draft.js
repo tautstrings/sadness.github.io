@@ -1,0 +1,1608 @@
+function setup() {
+createCanvas(600, 600);
+}
+function draw() {
+background(0);
+
+noStroke();
+fill(45);
+square(120, 585, 15)
+
+noStroke();
+fill(48);
+square(135, 585, 15)
+
+noStroke();
+fill(62);
+square(150, 585, 15)
+
+noStroke();
+fill(49);
+square(165, 585, 15)
+
+noStroke();
+fill(40);
+square(120, 570, 15)
+
+noStroke();
+fill(51);
+square(135, 570, 15)
+
+noStroke();
+fill(62);
+square(150, 570, 15)
+
+noStroke();
+fill(51);
+square(165, 570, 15)
+
+noStroke();
+fill(34);
+square(180, 555, 15)
+
+noStroke();
+fill(59);
+square(165, 555, 15)
+
+noStroke();
+fill(60);
+square(150, 555, 15)
+
+noStroke();
+fill(55);
+square(135, 555, 15)
+
+noStroke();
+fill(37);
+square(120, 555, 15)
+
+noStroke();
+fill(31);
+square(120, 540, 15)
+
+noStroke();
+fill(56);
+square(135, 540, 15)
+
+noStroke();
+fill(64);
+square(150, 540, 15)
+
+noStroke();
+fill(66);
+square(165, 540, 15)
+
+noStroke();
+fill(37);
+square(180, 540, 15)
+
+noStroke();
+fill(33);
+square(180, 525, 15)
+
+noStroke();
+fill(54);
+square(165, 525, 15)
+
+noStroke();
+fill(65);
+square(150, 525, 15)
+
+noStroke();
+fill(51);
+square(135, 525, 15)
+
+noStroke();
+fill(23);
+square(120, 525, 15)
+
+noStroke();
+fill(49);
+square(135, 510, 15)
+
+noStroke();
+fill(61);
+square(150, 510, 15)
+
+noStroke();
+fill(72);
+square(165, 510, 15)
+
+noStroke();
+fill(48);
+square(180, 510, 15)
+
+noStroke();
+fill(40);
+square(195, 495, 15)
+
+noStroke();
+fill(62);
+square(180, 495, 15)
+
+noStroke();
+fill(83);
+square(165, 495, 15)
+
+noStroke();
+fill(71);
+square(150, 495, 15)
+
+noStroke();
+fill(51);
+square(135, 495, 15)
+
+noStroke();
+fill(34);
+square(120, 480, 15)
+
+noStroke();
+fill(65);
+square(135, 480, 15)
+
+noStroke();
+fill(84);
+square(150, 480, 15)
+
+noStroke();
+fill(76);
+square(165, 480, 15)
+
+noStroke();
+fill(69);
+square(180, 480, 15)
+
+noStroke();
+fill(68);
+square(195, 480, 15)
+
+noStroke();
+fill(43);
+square(210, 465, 15)
+
+noStroke();
+fill(81);
+square(195, 465, 15)
+
+noStroke();
+fill(97);
+square(180, 465, 15)
+
+noStroke();
+fill(97);
+square(180, 465, 15)
+
+noStroke();
+fill(64);
+square(165, 465, 15)
+
+noStroke();
+fill(83);
+square(150, 465, 15)
+
+noStroke();
+fill(78);
+square(135, 465, 15)
+
+noStroke();
+fill(56);
+square(120, 465, 15)
+
+noStroke();
+fill(36);
+square(105, 450, 15)
+
+noStroke();
+fill(65);
+square(120, 450, 15)
+
+noStroke();
+fill(80);
+square(135, 450, 15)
+
+noStroke();
+fill(69);
+square(150, 450, 15)
+
+noStroke();
+fill(56);
+square(165, 450, 15)
+
+noStroke();
+fill(91);
+square(180, 450, 15)
+
+noStroke();
+fill(89);
+square(195, 450, 15)
+
+noStroke();
+fill(59);
+square(210, 450, 15)
+
+noStroke();
+fill(64);
+square(210, 435, 15)
+
+noStroke();
+fill(66);
+square(195, 435, 15)
+
+noStroke();
+fill(79);
+square(180, 435, 15)
+
+noStroke();
+fill(65);
+square(165, 435, 15)
+
+noStroke();
+fill(63);
+square(150, 435, 15)
+
+noStroke();
+fill(68);
+square(135, 435, 15)
+
+noStroke();
+fill(81);
+square(120, 435, 15)
+
+noStroke();
+fill(54);
+square(105, 435, 15)
+
+noStroke();
+fill(70);
+square(105, 420, 15)
+
+noStroke();
+fill(79);
+square(120, 420, 15)
+
+noStroke();
+fill(56);
+square(135, 420, 15)
+
+noStroke();
+fill(11);
+square(150, 420, 15)
+
+noStroke();
+fill(79);
+square(165, 420, 15)
+
+noStroke();
+fill(12);
+square(180, 420, 15)
+
+noStroke();
+fill(63);
+square(195, 420, 15)
+
+noStroke();
+fill(77);
+square(210, 420, 15)
+
+noStroke();
+fill(84);
+square(210, 405, 15)
+
+noStroke();
+fill(55);
+square(195, 405, 15)
+
+noStroke();
+fill(58);
+square(180, 405, 15)
+
+noStroke();
+fill(85);
+square(165, 405, 15)
+
+noStroke();
+fill(65);
+square(150, 405, 15)
+
+noStroke();
+fill(86);
+square(135, 405, 15)
+
+noStroke();
+fill(79);
+square(120, 405, 15)
+
+noStroke();
+fill(65);
+square(105, 405, 15)
+
+noStroke();
+fill(65);
+square(105, 405, 15)
+
+noStroke();
+fill(66);
+square(105, 390, 15)
+
+noStroke();
+fill(71);
+square(120, 390, 15)
+
+noStroke();
+fill(80);
+square(135, 390, 15)
+
+noStroke();
+fill(89);
+square(150, 390, 15)
+
+noStroke();
+fill(92);
+square(165, 390, 15)
+
+noStroke();
+fill(106);
+square(180, 390, 15)
+
+noStroke();
+fill(75);
+square(195, 390, 15)
+
+noStroke();
+fill(91);
+square(210, 390, 15)
+
+noStroke();
+fill(81);
+square(210, 375, 15)
+
+noStroke();
+fill(34);
+square(195, 375, 15)
+
+noStroke();
+fill(102);
+square(180, 375, 15)
+
+noStroke();
+fill(83);
+square(165, 375, 15)
+
+noStroke();
+fill(89);
+square(150, 375, 15)
+
+noStroke();
+fill(96);
+square(135, 375, 15)
+
+noStroke();
+fill(67);
+square(120, 375, 15)
+
+noStroke();
+fill(57);
+square(105, 375, 15)
+
+noStroke();
+fill(48);
+square(105, 360, 15)
+
+noStroke();
+fill(95);
+square(120, 360, 15)
+
+noStroke();
+fill(48);
+square(135, 360, 15)
+
+noStroke();
+fill(86);
+square(150, 360, 15)
+
+noStroke();
+fill(110);
+square(165, 360, 15)
+
+noStroke();
+fill(44);
+square(195, 360, 15)
+
+noStroke();
+fill(86);
+square(210, 360, 15)
+
+noStroke();
+fill(86);
+square(210, 360, 15)
+
+noStroke();
+fill(106);
+square(210, 345, 15)
+
+noStroke();
+fill(35);
+square(195, 345, 15)
+
+noStroke();
+fill(1);
+square(180, 345, 15)
+
+noStroke();
+fill(23);
+square(165, 345, 15)
+
+noStroke();
+fill(97);
+square(135, 345, 15)
+
+noStroke();
+fill(92);
+square(120, 345, 15)
+
+noStroke();
+fill(89);
+square(120, 330, 15)
+
+noStroke();
+fill(91);
+square(135, 330, 15)
+
+noStroke();
+fill(56);
+square(150, 330, 15)
+
+noStroke();
+fill(15);
+square(165, 330, 15)
+
+
+noStroke();
+fill(60);
+square(120, 315, 15)
+
+noStroke();
+fill(77);
+square(135, 300, 15)
+
+noStroke();
+fill(20);
+square(225, 345, 15)
+
+noStroke();
+fill(38);
+square(240, 345, 15)
+
+noStroke();
+fill(39);
+square(255, 345, 15)
+
+noStroke();
+fill(46);
+square(270, 345, 15)
+
+noStroke();
+fill(98);
+square(285, 345, 15)
+
+noStroke();
+fill(93);
+square(300, 345, 15)
+
+noStroke();
+fill(63);
+square(315, 345, 15)
+
+noStroke();
+fill(93);
+square(330, 345, 15)
+
+noStroke();
+fill(111);
+square(345, 345, 15)
+
+noStroke();
+fill(103);
+square(360, 345, 15)
+
+noStroke();
+fill(101);
+square(375, 345, 15)
+
+noStroke();
+fill(101);
+square(375, 345, 15)
+
+noStroke();
+fill(101);
+square(390, 345, 15)
+
+noStroke();
+fill(79);
+square(405, 345, 15)
+
+noStroke();
+fill(32);
+square(420, 345, 15)
+
+noStroke();
+fill(51);
+square(420, 330, 15)
+
+noStroke();
+fill(78);
+square(405, 330, 15)
+
+noStroke();
+fill(98);
+square(390, 330, 15)
+
+noStroke();
+fill(113);
+square(375, 330, 15)
+
+noStroke();
+fill(123);
+square(360, 330, 15)
+
+noStroke();
+fill(113);
+square(345, 330, 15)
+
+noStroke();
+fill(119);
+square(330, 330, 15)
+
+noStroke();
+fill(114);
+square(315, 330, 15)
+
+noStroke();
+fill(117);
+square(300, 330, 15)
+
+noStroke();
+fill(132);
+square(285, 330, 15)
+
+noStroke();
+fill(56);
+square(270, 330, 15)
+
+noStroke();
+fill(98);
+square(255, 330, 15)
+
+noStroke();
+fill(106);
+square(240, 330, 15)
+
+noStroke();
+fill(116);
+square(225, 330, 15)
+
+noStroke();
+fill(123);
+square(210, 330, 15)
+
+noStroke();
+fill(31);
+square(195, 330, 15)
+
+noStroke();
+fill(12);
+square(180, 330, 15)
+
+noStroke();
+fill(27);
+square(180, 315, 15)
+
+noStroke();
+fill(74);
+square(195, 315, 15)
+
+noStroke();
+fill(143);
+square(210, 315, 15)
+
+noStroke();
+fill(166);
+square(225, 315, 15)
+
+noStroke();
+fill(154);
+square(240, 315, 15)
+
+noStroke();
+fill(122);
+square(255, 315, 15)
+
+noStroke();
+fill(63);
+square(270, 315, 15)
+
+noStroke();
+fill(154);
+square(285, 315, 15)
+
+noStroke();
+fill(131);
+square(300, 315, 15)
+
+noStroke();
+fill(150);
+square(315, 315, 15)
+
+noStroke();
+fill(159);
+square(330, 315, 15)
+
+noStroke();
+fill(156);
+square(345, 315, 15)
+
+noStroke();
+fill(141);
+square(360, 315, 15)
+
+noStroke();
+fill(132);
+square(375, 315, 15)
+
+noStroke();
+fill(97);
+square(390, 315, 15)
+
+noStroke();
+fill(88);
+square(405, 315, 15)
+
+noStroke();
+fill(67);
+square(420, 315, 15)
+
+noStroke();
+fill(98);
+square(135, 315, 15)
+
+noStroke();
+fill(45);
+square(150, 315, 15)
+
+noStroke();
+fill(109);
+square(150, 300, 15)
+
+noStroke();
+fill(81);
+square(165, 300, 15)
+
+noStroke();
+fill(44);
+square(180, 300, 15)
+
+noStroke();
+fill(148);
+square(195, 300, 15)
+
+noStroke();
+fill(211);
+square(210, 300, 15)
+
+noStroke();
+fill(215);
+square(225, 300, 15)
+
+noStroke();
+fill(218);
+square(240, 300, 15)
+
+noStroke();
+fill(221);
+square(255, 300, 15)
+
+noStroke();
+fill(79);
+square(270, 300, 15)
+
+noStroke();
+fill(153);
+square(285, 300, 15)
+
+noStroke();
+fill(170);
+square(300, 300, 15)
+
+noStroke();
+fill(195);
+square(315, 300, 15)
+
+noStroke();
+fill(204);
+square(330, 300, 15)
+
+noStroke();
+fill(184);
+square(345, 300, 15)
+
+noStroke();
+fill(181);
+square(360, 300, 15)
+
+noStroke();
+fill(157);
+square(375, 300, 15)
+
+noStroke();
+fill(119);
+square(390, 300, 15)
+
+noStroke();
+fill(96);
+square(405, 300, 15)
+
+noStroke();
+fill(68);
+square(420, 300, 15)
+
+noStroke();
+fill(60);
+square(420, 285, 15)
+
+noStroke();
+fill(99);
+square(405, 285, 15)
+
+noStroke();
+fill(142);
+square(390, 285, 15)
+
+noStroke();
+fill(208);
+square(375, 285, 15)
+
+noStroke();
+fill(240);
+square(360, 285, 15)
+
+noStroke();
+fill(238);
+square(345, 285, 15)
+
+noStroke();
+fill(236);
+square(330, 285, 15)
+
+noStroke();
+fill(235);
+square(315, 285, 15)
+
+noStroke();
+fill(230);
+square(300, 285, 15)
+
+noStroke();
+fill(179);
+square(285, 285, 15)
+
+noStroke();
+fill(91);
+square(270, 285, 15)
+
+noStroke();
+fill(224);
+square(255, 285, 15)
+
+noStroke();
+fill(221);
+square(240, 285, 15)
+
+noStroke();
+fill(216);
+square(225, 285, 15)
+
+noStroke();
+fill(213);
+square(210, 285, 15)
+
+noStroke();
+fill(211);
+square(195, 285, 15)
+
+noStroke();
+fill(110);
+square(180, 285, 15)
+
+noStroke();
+fill(102);
+square(165, 285, 15)
+
+noStroke();
+fill(49);
+square(150, 285, 15)
+
+noStroke();
+fill(70);
+square(165, 270, 15)
+
+noStroke();
+fill(98);
+square(180, 270, 15)
+
+noStroke();
+fill(148);
+square(195, 270, 15)
+
+noStroke();
+fill(209);
+square(210, 270, 15)
+
+noStroke();
+fill(220);
+square(225, 270, 15)
+
+noStroke();
+fill(222);
+square(240, 270, 15)
+
+noStroke();
+fill(157);
+square(255, 270, 15)
+
+noStroke();
+fill(67);
+square(270, 270, 15)
+
+noStroke();
+fill(137);
+square(285, 270, 15)
+
+noStroke();
+fill(234);
+square(300, 270, 15)
+
+noStroke();
+fill(236);
+square(315, 270, 15)
+
+noStroke();
+fill(238);
+square(330, 270, 15)
+
+noStroke();
+fill(239);
+square(345, 270, 15)
+
+noStroke();
+fill(241);
+square(360, 270, 15)
+
+noStroke();
+fill(243);
+square(375, 270, 15)
+
+noStroke();
+fill(146);
+square(390, 270, 15)
+
+noStroke();
+fill(103);
+square(405, 270, 15)
+
+noStroke();
+fill(72);
+square(420, 270, 15)
+
+noStroke();
+fill(83);
+square(420, 255, 15)
+
+noStroke();
+fill(112);
+square(405, 255, 15)
+
+noStroke();
+fill(135);
+square(390, 255, 15)
+
+noStroke();
+fill(184);
+square(375, 255, 15)
+
+noStroke();
+fill(243);
+square(360, 255, 15)
+
+noStroke();
+fill(241);
+square(345, 255, 15)
+
+noStroke();
+fill(240);
+square(330, 255, 15)
+
+noStroke();
+fill(238);
+square(315, 255, 15)
+
+noStroke();
+fill(196);
+square(300, 255, 15)
+
+noStroke();
+fill(109);
+square(285, 255, 15)
+
+noStroke();
+fill(109);
+square(285, 255, 15)
+
+noStroke();
+fill(106);
+square(270, 255, 15)
+
+noStroke();
+fill(87);
+square(255, 255, 15)
+
+noStroke();
+fill(98);
+square(240, 255, 15)
+
+noStroke();
+fill(107);
+square(225, 255, 15)
+
+noStroke();
+fill(94);
+square(210, 255, 15)
+
+noStroke();
+fill(120);
+square(195, 255, 15)
+
+noStroke();
+fill(83);
+square(180, 255, 15)
+
+noStroke();
+fill(38);
+square(210, 240, 15)
+
+noStroke();
+fill(76);
+square(225, 240, 15)
+
+noStroke();
+fill(93);
+square(240, 240, 15)
+
+noStroke();
+fill(100);
+square(255, 240, 15)
+
+noStroke();
+fill(103);
+square(270, 240, 15)
+
+noStroke();
+fill(94);
+square(285, 240, 15)
+
+noStroke();
+fill(130);
+square(300, 240, 15)
+
+noStroke();
+fill(156);
+square(315, 240, 15)
+
+noStroke();
+fill(194);
+square(330, 240, 15)
+
+noStroke();
+fill(195);
+square(345, 240, 15)
+
+noStroke();
+fill(181);
+square(360, 240, 15)
+
+noStroke();
+fill(133);
+square(375, 240, 15)
+
+noStroke();
+fill(36);
+square(390, 240, 15)
+
+noStroke();
+fill(5);
+square(405, 240, 15)
+
+noStroke();
+fill(78);
+square(420, 240, 15)
+
+noStroke();
+fill(21);
+square(405, 225, 15)
+
+noStroke();
+fill(86);
+square(390, 225, 15)
+
+noStroke();
+fill(70);
+square(375, 225, 15)
+
+noStroke();
+fill(108);
+square(360, 225, 15)
+
+noStroke();
+fill(103);
+square(345, 225, 15)
+
+noStroke();
+fill(107);
+square(330, 225, 15)
+
+noStroke();
+fill(127);
+square(315, 225, 15)
+
+noStroke();
+fill(139);
+square(300, 225, 15)
+
+noStroke();
+fill(102);
+square(285, 225, 15)
+
+noStroke();
+fill(109);
+square(270, 225, 15)
+
+noStroke();
+fill(100);
+square(255, 225, 15)
+
+noStroke();
+fill(98);
+square(240, 225, 15)
+
+noStroke();
+fill(64);
+square(225, 225, 15)
+
+noStroke();
+fill(35);
+square(225, 210, 15)
+
+noStroke();
+fill(83);
+square(240, 210, 15)
+
+noStroke();
+fill(90);
+square(255, 210, 15)
+
+noStroke();
+fill(91);
+square(270, 210, 15)
+
+noStroke();
+fill(108);
+square(285, 210, 15)
+
+noStroke();
+fill(105);
+square(300, 210, 15)
+
+noStroke();
+fill(132);
+square(315, 210, 15)
+
+noStroke();
+fill(138);
+square(330, 210, 15)
+
+noStroke();
+fill(118);
+square(345, 210, 15)
+
+noStroke();
+fill(105);
+square(360, 210, 15)
+
+noStroke();
+fill(76);
+square(375, 210, 15)
+
+noStroke();
+fill(64);
+square(390, 210, 15)
+
+noStroke();
+fill(79);
+square(390, 195, 15)
+
+noStroke();
+fill(65);
+square(375, 195, 15)
+
+noStroke();
+fill(80);
+square(360, 195, 15)
+
+noStroke();
+fill(105);
+square(345, 195, 15)
+
+noStroke();
+fill(115);
+square(330, 195, 15)
+
+noStroke();
+fill(122);
+square(315, 195, 15)
+
+noStroke();
+fill(101);
+square(300, 195, 15)
+
+noStroke();
+fill(95);
+square(285, 195, 15)
+
+noStroke();
+fill(97);
+square(270, 195, 15)
+
+noStroke();
+fill(91);
+square(255, 195, 15)
+
+noStroke();
+fill(44);
+square(240, 195, 15)
+
+noStroke();
+fill(70);
+square(255, 180, 15)
+
+noStroke();
+fill(84);
+square(270, 180, 15)
+
+noStroke();
+fill(84);
+square(285, 180, 15)
+
+noStroke();
+fill(116);
+square(300, 180, 15)
+
+noStroke();
+fill(91);
+square(315, 180, 15)
+
+noStroke();
+fill(89);
+square(330, 180, 15)
+
+noStroke();
+fill(91);
+square(345, 180, 15)
+
+noStroke();
+fill(55);
+square(360, 180, 15)
+
+noStroke();
+fill(89);
+square(375, 180, 15)
+
+noStroke();
+fill(69);
+square(360, 165, 15)
+
+noStroke();
+fill(52);
+square(345, 165, 15)
+
+noStroke();
+fill(83);
+square(330, 165, 15)
+
+noStroke();
+fill(108);
+square(315, 165, 15)
+
+noStroke();
+fill(77);
+square(300, 165, 15)
+
+noStroke();
+fill(75);
+square(285, 165, 15)
+
+noStroke();
+fill(69);
+square(270, 165, 15)
+
+noStroke();
+fill(36);
+square(270, 150, 15)
+
+noStroke();
+fill(60);
+square(285, 150, 15)
+
+noStroke();
+fill(65);
+square(300, 150, 15)
+
+noStroke();
+fill(10);
+square(315, 150, 15)
+
+noStroke();
+fill(12);
+square(330, 150, 15)
+
+noStroke();
+fill(93);
+square(345, 150, 15)
+
+noStroke();
+fill(36);
+square(255, 360, 15)
+
+noStroke();
+fill(46);
+square(270, 360, 15)
+
+noStroke();
+fill(28);
+square(285, 360, 15)
+
+noStroke();
+fill(73);
+square(300, 360, 15)
+
+noStroke();
+fill(70);
+square(315, 360, 15)
+
+noStroke();
+fill(106);
+square(330, 360, 15)
+
+noStroke();
+fill(104);
+square(345, 360, 15)
+
+noStroke();
+fill(101);
+square(360, 360, 15)
+
+noStroke();
+fill(105);
+square(375, 360, 15)
+
+noStroke();
+fill(82);
+square(390, 360, 15)
+
+noStroke();
+fill(52);
+square(405, 360, 15)
+
+noStroke();
+fill(27);
+square(420, 360, 15)
+
+noStroke();
+fill(42);
+square(435, 375, 15)
+
+noStroke();
+fill(19);
+square(420, 375, 15)
+
+noStroke();
+fill(42);
+square(405, 375, 15)
+
+noStroke();
+fill(66);
+square(390, 375, 15)
+
+noStroke();
+fill(96);
+square(375, 375, 15)
+
+noStroke();
+fill(65);
+square(360, 375, 15)
+
+noStroke();
+fill(31);
+square(345, 375, 15)
+
+noStroke();
+fill(51);
+square(330, 375, 15)
+
+noStroke();
+fill(53);
+square(315, 375, 15)
+
+noStroke();
+fill(39);
+square(300, 375, 15)
+
+noStroke();
+fill(39);
+square(300, 375, 15)
+
+noStroke();
+fill(30);
+square(285, 390, 15)
+
+noStroke();
+fill(33);
+square(300, 390, 15)
+
+noStroke();
+fill(54);
+square(315, 390, 15)
+
+noStroke();
+fill(74);
+square(330, 390, 15)
+
+noStroke();
+fill(74);
+square(345, 390, 15)
+
+noStroke();
+fill(48);
+square(360, 390, 15)
+
+noStroke();
+fill(76);
+square(375, 390, 15)
+
+noStroke();
+fill(54);
+square(390, 390, 15)
+
+noStroke();
+fill(52);
+square(405, 390, 15)
+
+noStroke();
+fill(30);
+square(420, 390, 15)
+
+noStroke();
+fill(60);
+square(405, 405, 15)
+
+noStroke();
+fill(63);
+square(390, 405, 15)
+
+noStroke();
+fill(77);
+square(375, 405, 15)
+
+noStroke();
+fill(78);
+square(360, 405, 15)
+
+noStroke();
+fill(62);
+square(345, 405, 15)
+
+noStroke();
+fill(50);
+square(330, 405, 15)
+
+noStroke();
+fill(67);
+square(315, 405, 15)
+
+noStroke();
+fill(51);
+square(300, 405, 15)
+
+noStroke();
+fill(25);
+square(300, 420, 15)
+
+noStroke();
+fill(28);
+square(315, 420, 15)
+
+noStroke();
+fill(60);
+square(330, 420, 15)
+
+noStroke();
+fill(90);
+square(345, 420, 15)
+
+noStroke();
+fill(82);
+square(360, 420, 15)
+
+noStroke();
+fill(38);
+square(375, 420, 15)
+
+noStroke();
+fill(28);
+square(390, 420, 15)
+
+noStroke();
+fill(92);
+square(405, 420, 15)
+
+noStroke();
+fill(62);
+square(420, 420, 15)
+
+noStroke();
+fill(52);
+square(435, 435, 15)
+
+noStroke();
+fill(35);
+square(420, 435, 15)
+
+noStroke();
+fill(85);
+square(405, 435, 15)
+
+noStroke();
+fill(97);
+square(390, 435, 15)
+
+noStroke();
+fill(17);
+square(375, 435, 15)
+
+noStroke();
+fill(26);
+square(360, 435, 15)
+
+noStroke();
+fill(43);
+square(345, 435, 15)
+
+noStroke();
+fill(27);
+square(330, 435, 15)
+
+noStroke();
+fill(32);
+square(360, 450, 15)
+
+noStroke();
+fill(71);
+square(375, 450, 15)
+
+noStroke();
+fill(106);
+square(390, 450, 15)
+
+noStroke();
+fill(68);
+square(405, 450, 15)
+
+noStroke();
+fill(69);
+square(420, 450, 15)
+
+noStroke();
+fill(65);
+square(435, 450, 15)
+
+noStroke();
+fill(80);
+square(465, 465, 15)
+
+noStroke();
+fill(7);
+square(450, 465, 15)
+
+noStroke();
+fill(72);
+square(435, 465, 15)
+
+noStroke();
+fill(55);
+square(420, 465, 15)
+
+noStroke();
+fill(66);
+square(405, 465, 15)
+
+noStroke();
+fill(99);
+square(390, 465, 15)
+
+noStroke();
+fill(102);
+square(375, 465, 15)
+
+noStroke();
+fill(74);
+square(360, 465, 15)
+
+noStroke();
+fill(55);
+square(345, 465, 15)
+
+noStroke();
+fill(52);
+square(330, 465, 15)
+
+noStroke();
+fill(31);
+square(315, 465, 15)
+
+noStroke();
+fill(75);
+square(345, 480, 15)
+
+noStroke();
+fill(80);
+square(360, 480, 15)
+
+
+noStroke();
+fill(87);
+square(375, 480, 15)
+
+noStroke();
+fill(83);
+square(390, 480, 15)
+
+noStroke();
+fill(69);
+square(405, 480, 15)
+
+noStroke();
+fill(76);
+square(420, 480, 15)
+
+noStroke();
+fill(15);
+square(435, 480, 15)
+
+noStroke();
+fill(84);
+square(450, 480, 15)
+
+noStroke();
+fill(76);
+square(465, 480, 15)
+
+noStroke();
+fill(58);
+square(435, 495, 15)
+
+noStroke();
+fill(56);
+square(390, 495, 15)
+
+noStroke();
+fill(20);
+square(375, 495, 15)
+}
